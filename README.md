@@ -1,0 +1,1 @@
+Codes for Galerkin Methods for Fluid Dynamics problems. These are the codes that I had developed as part of my assignments in the Galerkin Methods at IIT Bombay, during my MTech. Codes are written in a fairly modular manner.
